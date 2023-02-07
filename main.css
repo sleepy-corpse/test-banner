@@ -140,7 +140,7 @@ body {
   transition: 0.8s;
 }
 
-.interactive-area__btn:focus {
+.interactive-area__btn:focus-within {
   transform: scale(1.1);
   transition: 0.8s;
 }
